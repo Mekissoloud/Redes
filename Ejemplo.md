@@ -5,7 +5,7 @@ Los juegos AAA siempre han sido muy destacados en la industria del entretenimien
 
 ![Codigo QR](qr-proyecto.jpg)
 
-| #   | Juego                                | Descripción                                                                                                                                                                                                                         |
+|     | Juego                                | Descripción                                                                                                                                                                                                                         |
 |---:|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Call of Duty Modern Warfare II       | Sumérgete en una experiencia de guerra moderna con gráficos asombrosos y una narrativa intensa. Modern Warfare II lleva la serie a nuevas alturas con su jugabilidad frenética y modos multijugador emocionantes.                    |
 | 2   | Final Fantasy VII Intergrade Remake  | Revive la épica historia de Cloud Strife con gráficos remasterizados y nuevas características en este remake. Intergrade ofrece una experiencia visualmente impresionante y una trama cautivadora que te transportará al mundo mágico de Final Fantasy VII.              |
