@@ -17,3 +17,9 @@ Los juegos AAA siempre han sido muy destacados en la industria del entretenimien
 | 8   | Doom Eternal                         | Vive la brutalidad del infierno en la secuela del aclamado Doom. Doom Eternal ofrece acción frenética, enemigos demoníacos imponentes y un diseño de niveles magistral, todo acompañado de una banda sonora intensa.                                  |
 | 9   | Apex Leyendas: Eclipse               | Entra en la arena con este battle royale de ritmo rápido. Eclipse introduce nuevos personajes, armas y cambios en el mapa, manteniendo la emoción y la estrategia que hacen única a la experiencia de Apex Legends.                                    |
 | 10  | Starcraft II: Legacy of the Void     | Concluye la épica saga espacial de Starcraft en Legacy of the Void. Experimenta estrategia en tiempo real con razas distintivas, una historia cautivadora y un modo multijugador competitivo que desafiará tus habilidades tácticas.                   |
+
+Comando:
+```bash
+ls -lah
+cd directorio
+```
