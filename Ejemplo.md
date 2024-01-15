@@ -23,4 +23,4 @@ Comando:
 ls -lah
 cd directorio
 ```
-Made by <a href="mekmekmek.me">Mekmekmek<a>
+Made by <a href="https://mekmekmek.me">Mekmekmek<a>
